@@ -14,4 +14,6 @@ Fast and high accuracy face detection. The face detection rate on AMD Ryzen 5 35
 
 <h2>Requirements</h2>
 
-Delphi - 10 Seattle, 10.1 Berlin, 10.2 Tokyo, 10.3 Rio, 10.4 Sydney, 11 Alexandira 
+<h3>Delphi - 10 Seattle, 10.1 Berlin, 10.2 Tokyo, 10.3 Rio, 10.4 Sydney, 11 Alexandira</h3> 
+
+The repository is under development...
