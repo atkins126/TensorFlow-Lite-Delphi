@@ -1,5 +1,5 @@
 # TensorFlow-Lite-Delphi
-<a href="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/tree/master/Face%20Detection">Face Detection</a>
+<a href="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/tree/master/Face%20Detection"><h2>Face Detection</h1></a>
 
 <div align="left">
     <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_02.jpg" width="200px"</img> 
