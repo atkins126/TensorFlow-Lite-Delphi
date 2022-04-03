@@ -14,9 +14,11 @@
 <a href="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/tree/master/Face%20Detection">Face Detection</a>
 
 <div align="left">
-    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Face%20Detection/screenshots/screenshot1.jpg" width="200px"</img> 
-    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Face%20Detection/screenshots/screenshot2.jpg" width="200px"</img> 
-    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Face%20Detection/screenshots/screenshot4.jpg" width="200px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_02.jpg" width="200px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_03.jpg" width="200px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_04.jpg" width="200px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_05.jpg" width="200px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_06.jpg" width="200px"</img> 
 </div>
 
 &nbsp;
