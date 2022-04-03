@@ -181,7 +181,7 @@ begin
 {$ENDIF MSWINDOWS}
   if (LibraryModule = 0) then
   begin
-    LibraryModule := WinApi.Windows.LoadLibrary(PWideChar('..\..\..\bin\windows\tflite.dll'));
+    LibraryModule := WinApi.Windows.LoadLibrary(PWideChar('..\..\..\..\bin\windows\tflite.dll'));
 
     if (LibraryModule = 0) then
     begin
