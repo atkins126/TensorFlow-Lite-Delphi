@@ -1,24 +1,14 @@
 # TensorFlow-Lite-Delphi
-<a href="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/tree/master/Face%20Detection"><h2>Face Detection</h1></a>
+<h2>Face Detection</h1>
+
+Fast and high accuracy face detector.
+The face detection rate on AMD Ryzen 5 3500 X, Windows 10 is 0.031 seconds with an image size of 320x320 pixels.
 
 <div align="left">
     <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_02.jpg" width="200px"</img> 
     <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_03.jpg" width="200px"</img> 
     <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_04.jpg" width="200px"</img> 
     <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_05.jpg" width="200px"</img>  
-</div>
-
-&nbsp;
-&nbsp;
-&nbsp;
-
-<a href="https://www.tensorflow.org/lite/models/object_detection/overview#get_started">Object Detection</a>
-
-<div align="left">
-    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Object%20Detection/screenshots/screenshot2.jpg" width="200px"</img> 
-    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Object%20Detection/screenshots/screenshot3.jpg" width="200px"</img> 
-    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Object%20Detection/screenshots/screenshot4.jpg" width="200px"</img> 
-    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/Object%20Detection/screenshots/screenshot5.jpg" width="200px"</img> 
 </div>
 
 # Requirements
