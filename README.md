@@ -6,10 +6,11 @@ TensorFlow-Lite-Delphi is a wrapper for <a href="https://www.tensorflow.org/lite
 Fast and high accuracy face detection. The face detection rate on AMD Ryzen 5 3500 X, Windows 10 is 0.031 second with an image size of 320x320 pixels. Model size is 3,5 MB.
 
 <div align="left">
-    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_02.jpg" width="200px"</img> 
-    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_08.jpg" width="200px"</img> 
-    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_04.jpg" width="200px"</img> 
-    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_05.jpg" width="200px"</img>  
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_02.jpg" width="195px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_08.jpg" width="195px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_04.jpg" width="195px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_05.jpg" width="195px"</img>  
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_06.jpg" width="195px"</img>  
 </div>
 
 
