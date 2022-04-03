@@ -1,5 +1,5 @@
 # TensorFlow-Lite-Delphi
-TensorFlow-Lite-Delphi is a wrapper for TensorFlow Lite C++
+TensorFlow-Lite-Delphi is a wrapper for <a href="https://www.tensorflow.org/lite?hl=en">TensorFlow Lite</a> C++ 
 
 <h2>Face Detection</h2>
 
