@@ -12,6 +12,7 @@ Fast and high accuracy face detection. The face detection rate on AMD Ryzen 5 35
     <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_05.jpg" width="200px"</img>  
 </div>
 
+
 <h2>Requirements</h2>
 
 <h3>Delphi - 10 Seattle, 10.1 Berlin, 10.2 Tokyo, 10.3 Rio, 10.4 Sydney, 11 Alexandira</h3> 
