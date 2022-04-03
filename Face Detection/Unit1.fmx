@@ -1,0 +1,122 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'FaceDetect'
+  ClientHeight = 612
+  ClientWidth = 656
+  Position = DesktopCenter
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  OnClose = FormClose
+  DesignerMasterStyle = 0
+  object ImageMain: TImage
+    MultiResBitmap = <
+      item
+      end>
+    Anchors = [akLeft, akTop, akRight, akBottom]
+    Position.X = 8.000000000000000000
+    Position.Y = 47.000000000000000000
+    Size.Width = 640.000000000000000000
+    Size.Height = 512.000000000000000000
+    Size.PlatformDefault = False
+    WrapMode = Stretch
+  end
+  object Button1: TButton
+    Anchors = [akLeft, akBottom]
+    Position.X = 18.000000000000000000
+    Position.Y = 574.000000000000000000
+    Size.Width = 90.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'Open Image'
+    OnClick = Button1Click
+  end
+  object Button2: TButton
+    Anchors = [akLeft, akBottom]
+    Position.X = 117.000000000000000000
+    Position.Y = 574.000000000000000000
+    Size.Width = 90.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    Text = 'Detect'
+    OnClick = Button2Click
+  end
+  object OpenDialog: TOpenDialog
+    Left = 139
+    Top = 230
+  end
+  object ComboBox1: TComboBox
+    Items.Strings = (
+      '0,5'
+      '0,6'
+      '0,7'
+      '0,8'
+      '0,9')
+    ItemIndex = 1
+    Position.X = 247.000000000000000000
+    Position.Y = 10.000000000000000000
+    Size.Width = 50.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 6
+  end
+  object Label1: TLabel
+    AutoSize = True
+    Position.X = 177.000000000000000000
+    Position.Y = 13.000000000000000000
+    Size.Width = 81.000000000000000000
+    Size.Height = 16.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Probability'
+    TabOrder = 7
+  end
+  object ComboBox2: TComboBox
+    Items.Strings = (
+      '2'
+      '4'
+      '8')
+    ItemIndex = 2
+    Position.X = 97.000000000000000000
+    Position.Y = 10.000000000000000000
+    Size.Width = 50.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 8
+    OnChange = ComboBox2Change
+  end
+  object Label2: TLabel
+    Position.X = 12.000000000000000000
+    Position.Y = 13.000000000000000000
+    Size.Width = 85.000000000000000000
+    Size.Height = 17.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Thread Count'
+    TabOrder = 9
+  end
+  object ImageList: TImageList
+    Source = <
+      item
+        MultiResBitmap = <>
+        Name = 'Source'
+      end
+      item
+        MultiResBitmap = <>
+        Name = 'FaceSegment'
+      end
+      item
+        MultiResBitmap = <>
+        Name = 'IrisLeft'
+      end
+      item
+        MultiResBitmap = <>
+        Name = 'IrisRight'
+      end>
+    Destination = <>
+    Left = 138
+    Top = 300
+  end
+end
