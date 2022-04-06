@@ -178,10 +178,10 @@ begin
 
 {$IFDEF MSWINDOWS}
   LibraryModule := WinApi.Windows.LoadLibrary(PWideChar(LibraryName));
-{$ENDIF MSWINDOWS}
+
   if (LibraryModule = 0) then
   begin
-    LibraryModule := WinApi.Windows.LoadLibrary(PWideChar('..\..\..\..\bin\windows\tflite.dll'));
+    LibraryModule := WinApi.Windows.LoadLibrary(PWideChar('..\..\..\..\bin\windows\x64\tflite.dll'));
 
     if (LibraryModule = 0) then
     begin
@@ -189,6 +189,7 @@ begin
       Exit;
     end;
   end;
+{$ENDIF MSWINDOWS}
 
   ModelCreateFromFile := GetProcAddress(LibraryModule, 'TfLiteModelCreateFromFile');
   InterpreterOptionsCreate := GetProcAddress(LibraryModule, 'TfLiteInterpreterOptionsCreate');
