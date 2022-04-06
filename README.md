@@ -10,6 +10,7 @@ Fast and high accuracy face detection based on <a href="https://github.com/ultra
     <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_08.jpg" width="190px"</img> 
     <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_04.jpg" width="190px"</img> 
     <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_05.jpg" width="190px"</img>  
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_06.jpg" width="190px"</img> 
 </div>
 
 <h2>Face Segmentation</h2>
