@@ -12,6 +12,14 @@ Fast and high accuracy face detection. The face detection rate on AMD Ryzen 5 35
     <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Detection/image_05.jpg" width="195px"</img>  
 </div>
 
+<h2>Face Segmentation</h2>
+
+<div align="left">
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Segmentation/image_01.jpg" width="195px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Segmentation/image_02.jpg" width="195px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Segmentation/image_03.jpg" width="195px"</img> 
+    <img src="https://github.com/DonkeySmall/TensorFlow-Lite-Delphi/blob/master/screenshots/Face%20Segmentation/image_04.jpg" width="195px"</img>  
+</div>
 
 <h2>Requirements</h2>
 
